@@ -1,5 +1,3 @@
-import java.util.List;
-
 class Linkedlist{
     Node head;
     class Node{
